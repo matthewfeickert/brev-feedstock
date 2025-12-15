@@ -3,7 +3,7 @@ About brev-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/brev-feedstock/blob/main/LICENSE.txt)
 
-Home: https://developer.nvidia.com/brev
+Home: https://docs.nvidia.com/brev/
 
 Package license: MIT
 
@@ -11,9 +11,9 @@ Summary: Brev CLI
 
 Development: https://github.com/brevdev/brev-cli
 
-Documentation: https://docs.nvidia.com/brev/latest/getting-started.html
+Documentation: https://docs.nvidia.com/brev/
 
-CLI tool for managing workspaces provided by brev.dev
+CLI tool for managing workspaces provided by brev.nvidia.com
 
 Current build status
 ====================
